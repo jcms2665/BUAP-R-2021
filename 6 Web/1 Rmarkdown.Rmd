@@ -1,0 +1,52 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Julio César
+
+## Documento 1
+
+
+
+Texto de **introducción** a *R* primer ejercicio. 
+
+
+
+O bien, querémos hacer referencia a una página: [FLACSO](https://www.flacso.edu.mx/)
+
+
+
+También es útil incorporar tablas
+
+Sexo | Edad
+---- | -----
+M | 36
+H | 40 
+
+
+
+Podemos incorporar imágenes
+
+*NOTA:* Para ello debemos obtener su **link**
+
+
+![](https://d500.epimg.net/cincodias/imagenes/2019/05/31/fortunas/1559314754_377298_1559315021_noticia_normal.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
